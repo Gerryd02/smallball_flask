@@ -1,0 +1,10 @@
+.navbar {
+    color: white;
+    background-color: darkblue;
+    border: 1px solid orangered;
+    link: white;
+}
+
+.row {
+    max-width: inherit;
+}
